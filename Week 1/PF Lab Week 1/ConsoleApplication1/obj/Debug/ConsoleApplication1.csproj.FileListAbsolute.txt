@@ -1,0 +1,20 @@
+G:\Visual Studio Community 2019 Portable\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Visual Studio Community 2019 Portable\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Visual Studio Community 2019 Portable\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Visual Studio Community 2019 Portable\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\Visual Studio Community 2019 Portable\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Visual Studio Community 2019 Portable\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Visual Studio Projects\PF Lab Week 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Visual Studio Projects\PF Lab Week 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Visual Studio Projects\PF Lab Week 1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Visual Studio Projects\PF Lab Week 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\PF Lab Week 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\PF Lab Week 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Visual Studio Projects\PF Lab Week 1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
