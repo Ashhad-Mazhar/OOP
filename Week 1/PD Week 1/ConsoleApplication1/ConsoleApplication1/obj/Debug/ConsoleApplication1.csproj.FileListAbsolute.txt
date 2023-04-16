@@ -1,0 +1,7 @@
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache

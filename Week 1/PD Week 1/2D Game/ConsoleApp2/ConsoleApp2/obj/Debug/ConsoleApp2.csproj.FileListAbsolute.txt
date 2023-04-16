@@ -1,0 +1,10 @@
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\bin\Debug\EZInput.dll
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\bin\Debug\EZInput.xml
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\Visual Studio Projects\Week 1\PD Week 1\2D Game\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
