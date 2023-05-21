@@ -1,0 +1,2 @@
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\Week 6\Week 6 PD\Problem 1\Problem 1\bin\Debug\Problem 1.exe.config
+F:\Visual Studio Community 2019 Portable\Visual Studio Projects\Week 6\Week 6 PD\Problem 1\Problem 1\obj\Debug\Problem 1.csprojResolveAssemblyReference.cache

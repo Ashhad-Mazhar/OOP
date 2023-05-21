@@ -1,0 +1,7 @@
+F:\Visual Studio Projects\Week 6\Week 6 PD\Problem 2\Problem 2\bin\Debug\Problem 2.exe.config
+F:\Visual Studio Projects\Week 6\Week 6 PD\Problem 2\Problem 2\bin\Debug\Problem 2.exe
+F:\Visual Studio Projects\Week 6\Week 6 PD\Problem 2\Problem 2\bin\Debug\Problem 2.pdb
+F:\Visual Studio Projects\Week 6\Week 6 PD\Problem 2\Problem 2\obj\Debug\Problem 2.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\Week 6\Week 6 PD\Problem 2\Problem 2\obj\Debug\Problem 2.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\Week 6\Week 6 PD\Problem 2\Problem 2\obj\Debug\Problem 2.exe
+F:\Visual Studio Projects\Week 6\Week 6 PD\Problem 2\Problem 2\obj\Debug\Problem 2.pdb
